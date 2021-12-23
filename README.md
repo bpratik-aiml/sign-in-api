@@ -1,3 +1,15 @@
+In case you don't know about postman 
+-->Postman is an application used for API testing. It is an HTTP client that tests HTTP requests, utilizing a graphical user interface, through which we obtain different types of responses that need to be subsequently validated. 
+
+Some of the most used functions of postman are:-
+-GET: Obtain information 
+-POST: Add information
+-PUT: Replace information
+-PATCH: Update certain information
+-DELETE: Delete information
+
+If you want to download it just open your favourite browser and type "postman" and click on "https://www.postman.com" and download.
+
 API details to check on postman
 
 https://nodejs-signup-api.herokuapp.com/testing -> This can be used to test if get works or not
